@@ -3549,19 +3549,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\aman.sheikh\\.nuget\\packages\\": {}
+    "C:\\Users\\Aman Sheikh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\work\\zeustraining\\todo\\FINSHARK\\uploader\\worker\\worker.csproj",
+      "projectUniqueName": "D:\\ZeusProjects\\CsvUploaderDotNet\\worker\\worker.csproj",
       "projectName": "worker",
-      "projectPath": "d:\\work\\zeustraining\\todo\\FINSHARK\\uploader\\worker\\worker.csproj",
-      "packagesPath": "C:\\Users\\aman.sheikh\\.nuget\\packages\\",
-      "outputPath": "d:\\work\\zeustraining\\todo\\FINSHARK\\uploader\\worker\\obj\\",
+      "projectPath": "D:\\ZeusProjects\\CsvUploaderDotNet\\worker\\worker.csproj",
+      "packagesPath": "C:\\Users\\Aman Sheikh\\.nuget\\packages\\",
+      "outputPath": "D:\\ZeusProjects\\CsvUploaderDotNet\\worker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aman.sheikh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Aman Sheikh\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -3653,7 +3653,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

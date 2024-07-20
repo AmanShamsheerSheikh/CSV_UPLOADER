@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\work\\zeustraining\\todo\\FINSHARK\\uploader\\processing\\processing.csproj": {}
+    "D:\\ZeusProjects\\CsvUploaderDotNet\\processing\\processing.csproj": {}
   },
   "projects": {
-    "D:\\work\\zeustraining\\todo\\FINSHARK\\uploader\\processing\\processing.csproj": {
+    "D:\\ZeusProjects\\CsvUploaderDotNet\\processing\\processing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\work\\zeustraining\\todo\\FINSHARK\\uploader\\processing\\processing.csproj",
+        "projectUniqueName": "D:\\ZeusProjects\\CsvUploaderDotNet\\processing\\processing.csproj",
         "projectName": "processing",
-        "projectPath": "D:\\work\\zeustraining\\todo\\FINSHARK\\uploader\\processing\\processing.csproj",
-        "packagesPath": "C:\\Users\\aman.sheikh\\.nuget\\packages\\",
-        "outputPath": "D:\\work\\zeustraining\\todo\\FINSHARK\\uploader\\processing\\obj\\",
+        "projectPath": "D:\\ZeusProjects\\CsvUploaderDotNet\\processing\\processing.csproj",
+        "packagesPath": "C:\\Users\\Aman Sheikh\\.nuget\\packages\\",
+        "outputPath": "D:\\ZeusProjects\\CsvUploaderDotNet\\processing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aman.sheikh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Aman Sheikh\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -98,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

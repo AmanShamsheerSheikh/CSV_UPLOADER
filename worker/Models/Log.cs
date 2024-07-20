@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
-namespace api.Models
+namespace worker.Models
 {
     [BsonIgnoreExtraElements]
     public class Log

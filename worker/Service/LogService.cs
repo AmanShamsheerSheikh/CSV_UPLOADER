@@ -1,7 +1,7 @@
 using api;
-using api.Models;
 using Microsoft.Extensions.Options;
 using MongoDB.Driver;
+using worker.Models;
 
 namespace worker.Service
 {

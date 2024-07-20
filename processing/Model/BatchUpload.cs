@@ -3,12 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace api.Models
+namespace processing.Models
 {
     public class BatchUpload
     {
-        public Boolean isUploaded {get;set;}
-        public int BatchNumber {get;set;}
-        public string command {get;set;}
+        // public Boolean isUploaded {get;set;}
+        public int BatchNumber { get; set; }
+        public string command { get; set; }
+        public string fileId { get; set; }
     }
 }

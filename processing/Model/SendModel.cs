@@ -3,13 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace api.Models
+namespace processing.Models
 {
     public class SendModel
     {
-        public byte[] bacthNo;
 
-        public byte[] fileBytes {get;set;}
-        public Log log {get;set;}
+        public required byte[] Command { get; set; }
+        public required BatchUpload Batch { get; set; }
     }
 }
